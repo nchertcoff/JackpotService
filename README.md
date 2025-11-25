@@ -1,7 +1,7 @@
 ## Interview project
 
-To start the application you need to run `com.sportygroup.jackpot.Application` java class. The project requires a Kafka server at localhost:9092 and a jackpot-bets topic. 
-File `application.properties` has all the configuration for Kafka and H2 database. It also contains Jackpot service configuration regarding contribution and rewards. 
+To start the application you need to run `com.sportygroup.jackpot.Application` java class. The project requires a Kafka server at `localhost:9092` and a `jackpot-bets` topic. 
+File `application.properties` has all the configuration for Kafka and H2 database. It also contains Jackpot service configuration regarding contributions and rewards. 
 
 ### Endpoints
 I created the following endpoints
